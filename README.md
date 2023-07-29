@@ -8,3 +8,5 @@ Configurations needed (on my side):
 3. Download opacities.db from https://zenodo.org/record/3759675#.YuN4E-zMLvU and keep it in folder references/opacities.
 4. Download cloudy and cloud-free models from https://zenodo.org/record/7236759 and place them in Models folder.
 5. Download ck04models for stellar spectra, wget command at https://natashabatalha.github.io/picaso/installation.html page.
+
+Finally, of course, download the transit spectra from https://exoplanetarchive.ipac.caltech.edu/cgi-bin/atmospheres/nph-firefly?atmospheres
