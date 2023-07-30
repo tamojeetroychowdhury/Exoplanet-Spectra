@@ -1,6 +1,6 @@
 # Exoplanet-Spectra
 
-Spectral fitting with $\texttt{picaso}$ module. Project page - https://github.com/natashabatalha/picaso/tree/master
+Spectral fitting with $\texttt{PICASO}$ module. Project page - https://github.com/natashabatalha/picaso/tree/master
 
 Configurations needed (on my side):
 1. Download references folder from the module repo and keep it in same folder as script.
